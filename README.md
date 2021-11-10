@@ -2,13 +2,6 @@
 --- Projet OCR: Optical Character Recognition ---
 -------------------------------------------------
 
---- Participants du projet:
-
-	- Benjamin Tabet
-	- Samy Mazouz
-	- Ari-Vinoth Sekar
-
-
 --- Description des fichiers:
 
 	1/ Data_Vizualisation.ipynb:
